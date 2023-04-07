@@ -36,3 +36,5 @@ NOTE:
        
         xcode-select --install
 
+
+Thanks Sanyam for sharing H2o-wave chat UI features.

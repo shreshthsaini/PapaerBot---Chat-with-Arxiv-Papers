@@ -33,5 +33,6 @@ NOTE:
 1. Use conda env with python version 3.10.10
 2. Make sure you have C++ 11 or higher compiler installed [for $hnswlib$ package]
 -- to reinstall or update xcode command line tools: 
+       
         xcode-select --install
 

@@ -7,7 +7,7 @@ from langchain.document_loaders import TextLoader
 from langchain.indexes import VectorstoreIndexCreator
 from h2o_wave import main, app, Q, ui, data
 
-MAX_MESSAGES = 500  # Maximum number of messages to store in the chat window
+MAX_MESSAGES = 100  # Maximum number of messages to store in the chat window
 index = None  # Initialize the global index variable
 
 # Function to convert PDF to text
